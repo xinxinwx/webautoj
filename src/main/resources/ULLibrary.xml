@@ -1,0 +1,17 @@
+<Pages>
+
+<!--    每个页面对应一个page-->
+    <Page keyword="首页">
+        <UIElement keyword="登录" by="xpath" value="//span[text()='登录']"></UIElement>
+        <UIElement keyword="用户名" by="xpath" value="//*[@placeholder='请输入工号']"></UIElement>
+        <UIElement keyword="用户名提示" by="xpath" value="//*[@class='el-input el-input--prefix']/following-sibling::div"></UIElement>
+        <UIElement keyword="密码" by="xpath" value="//*[@placeholder='请输入密码']"></UIElement>
+        <UIElement keyword="密码提示" by="xpath" value="//*[@class='el-input el-input--prefix el-input--suffix']/following-sibling::div"></UIElement>
+        <UIElement keyword="提示" by="xpath" value="//*[@class='el-message__content']"></UIElement>
+        <UIElement keyword="成功" by="xpath" value="//*[@class='logo']"></UIElement>
+        <UIElement keyword="配置" by="xpath" value="//span[text()='配置']"></UIElement>
+        <UIElement keyword="数据库配置" by="xpath" value="//span[text()='配置']/parent::div/following-sibling::ul/li[text()='数据库配置']"></UIElement>
+    </Page>
+
+
+</Pages>

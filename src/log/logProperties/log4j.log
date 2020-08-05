@@ -1,0 +1,279 @@
+2020-07-05 19:18:26:846] [INFO] [main] [xinxin.base.Base.to(Base.java:50)] - 访问页面https://www.baidu.com/
+2020-07-05 19:18:27:748] [INFO] [main] [xinxin.base.Base.send(Base.java:58)] - 定位到:【首页】的页面【nicai】往里面写入【简书】
+2020-07-05 19:18:27:811] [INFO] [main] [xinxin.util.UILibraryUtil.getElementByKeyword(UILibraryUtil.java:78)] - 获取元素失败
+2020-07-05 19:18:59:094] [INFO] [main] [xinxin.base.Base.to(Base.java:50)] - 璁块棶椤甸潰https://www.baidu.com/
+2020-07-05 19:19:00:450] [INFO] [main] [xinxin.base.Base.send(Base.java:58)] - 瀹氫綅鍒�:銆�棣栭〉銆戠殑椤甸潰銆�nicai銆戝線閲岄潰鍐欏叆銆�绠�涔�銆�
+2020-07-05 19:19:00:513] [INFO] [main] [xinxin.util.UILibraryUtil.getElementByKeyword(UILibraryUtil.java:78)] - 鑾峰彇鍏冪礌澶辫触
+2020-07-05 19:20:10:720] [INFO] [main] [xinxin.base.Base.to(Base.java:50)] - 璁块棶椤甸潰https://www.baidu.com/
+2020-07-05 19:20:11:781] [INFO] [main] [xinxin.base.Base.send(Base.java:58)] - 瀹氫綅鍒�:銆�棣栭〉銆戠殑椤甸潰銆�nicai銆戝線閲岄潰鍐欏叆銆�绠�涔�銆�
+2020-07-05 19:20:11:841] [INFO] [main] [xinxin.util.UILibraryUtil.getElementByKeyword(UILibraryUtil.java:78)] - 鑾峰彇鍏冪礌澶辫触
+2020-07-07 11:12:24:285] [INFO] [main] [xinxin.base.Base.to(Base.java:47)] - 访问页面https://www.baidu.com/
+2020-07-07 11:12:24:946] [INFO] [main] [xinxin.base.Base.click(Base.java:63)] - 点击:【首页】的【登录】
+2020-07-07 11:12:34:686] [INFO] [main] [xinxin.util.UILibraryUtil.getElementByKeyword(UILibraryUtil.java:80)] - 获取元素失败
+2020-07-07 11:12:54:349] [INFO] [main] [xinxin.base.Base.to(Base.java:47)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 11:12:57:443] [INFO] [main] [xinxin.base.Base.click(Base.java:63)] - 点击:【首页】的【登录】
+2020-07-07 11:13:52:440] [INFO] [main] [xinxin.base.Base.to(Base.java:47)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 11:16:10:361] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 11:16:13:765] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 13:06:25:453] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 13:06:28:842] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【   】
+2020-07-07 13:06:29:192] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【   】
+2020-07-07 13:06:29:293] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 13:06:29:420] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 13:06:29:442] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【12】
+2020-07-07 13:06:29:525] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【   】
+2020-07-07 13:06:29:609] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 13:06:29:675] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 13:06:29:696] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【123】
+2020-07-07 13:06:29:777] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【   】
+2020-07-07 13:06:29:878] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 13:06:29:956] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 13:06:29:976] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【333】
+2020-07-07 13:06:30:074] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【     】
+2020-07-07 13:06:30:181] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 13:06:30:276] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 13:06:30:309] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【admin】
+2020-07-07 13:06:30:412] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【1245633】
+2020-07-07 13:06:30:509] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 13:06:30:573] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 13:06:30:591] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【admin】
+2020-07-07 13:06:30:692] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【123456】
+2020-07-07 13:06:30:774] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 13:26:24:089] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 13:26:27:053] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【   】
+2020-07-07 13:26:27:347] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【   】
+2020-07-07 13:26:27:428] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 13:26:27:575] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 13:26:27:755] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【12】
+2020-07-07 13:26:27:914] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【   】
+2020-07-07 13:26:28:015] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 13:26:28:267] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 13:26:28:350] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【123】
+2020-07-07 13:26:28:455] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【   】
+2020-07-07 13:26:28:550] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 13:26:28:782] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 13:26:28:824] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【333】
+2020-07-07 13:26:28:953] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【     】
+2020-07-07 13:26:29:064] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 13:26:29:280] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 13:26:29:346] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【admin】
+2020-07-07 13:26:29:466] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【1245633】
+2020-07-07 13:26:29:579] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 13:26:29:840] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 13:26:29:907] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【admin】
+2020-07-07 13:26:30:016] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【123456】
+2020-07-07 13:26:30:132] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 13:27:44:340] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 13:27:47:266] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【   】
+2020-07-07 13:27:47:529] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【   】
+2020-07-07 13:27:47:643] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 13:27:47:751] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 13:27:47:923] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【12】
+2020-07-07 13:27:48:093] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【   】
+2020-07-07 13:27:48:193] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 13:27:48:297] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 13:27:48:500] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【123】
+2020-07-07 13:27:48:632] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【   】
+2020-07-07 13:27:48:714] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 13:27:48:797] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 13:27:48:989] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【333】
+2020-07-07 13:27:49:123] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【     】
+2020-07-07 13:27:49:221] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 13:27:49:314] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 13:27:49:518] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【admin】
+2020-07-07 13:27:49:745] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【1245633】
+2020-07-07 13:27:49:859] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 13:27:49:931] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 13:27:50:107] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【admin】
+2020-07-07 13:27:50:256] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【123456】
+2020-07-07 13:27:50:366] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 13:29:18:588] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 13:29:21:778] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【   】
+2020-07-07 13:29:22:051] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【   】
+2020-07-07 13:29:22:152] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 13:29:42:452] [INFO] [main] [xinxin.util.UILibraryUtil.getVisibleElement(UILibraryUtil.java:117)] - 根据by:【xpath】,value【//*[@class='el-input el-input--prefix']/following-sibling::div】定位元素超时
+2020-07-07 13:29:42:453] [INFO] [main] [xinxin.util.UILibraryUtil.getElementByKeyword(UILibraryUtil.java:80)] - 获取元素失败
+2020-07-07 13:29:43:183] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 13:29:43:351] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【12】
+2020-07-07 13:29:43:458] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【   】
+2020-07-07 13:29:43:552] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 13:29:43:715] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 13:29:43:901] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【123】
+2020-07-07 13:29:44:032] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【   】
+2020-07-07 13:29:44:123] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 13:30:15:497] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 13:30:15:665] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【333】
+2020-07-07 13:30:15:816] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【     】
+2020-07-07 13:30:15:904] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 13:30:16:626] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 13:30:16:778] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【admin】
+2020-07-07 13:30:16:929] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【1245633】
+2020-07-07 13:30:17:031] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 13:30:17:708] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 13:30:17:866] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【admin】
+2020-07-07 13:30:18:001] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【123456】
+2020-07-07 13:30:18:151] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 13:30:38:294] [INFO] [main] [xinxin.util.UILibraryUtil.getVisibleElement(UILibraryUtil.java:117)] - 根据by:【xpath】,value【//'*[@class='logo']】定位元素超时
+2020-07-07 13:30:38:296] [INFO] [main] [xinxin.util.UILibraryUtil.getElementByKeyword(UILibraryUtil.java:80)] - 获取元素失败
+2020-07-07 13:35:47:108] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 13:35:50:559] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【   】
+2020-07-07 13:35:50:811] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【   】
+2020-07-07 13:35:50:890] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 13:36:11:114] [INFO] [main] [xinxin.util.UILibraryUtil.getVisibleElement(UILibraryUtil.java:117)] - 根据by:【xpath】,value【//*[@class='el-input el-input--prefix']/following-sibling::div】定位元素超时
+2020-07-07 13:36:11:115] [INFO] [main] [xinxin.util.UILibraryUtil.getElementByKeyword(UILibraryUtil.java:80)] - 获取元素失败
+2020-07-07 13:36:11:949] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 13:36:12:146] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【12】
+2020-07-07 13:36:12:311] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【   】
+2020-07-07 13:36:12:416] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 13:36:12:594] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 13:36:12:748] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【123】
+2020-07-07 13:36:12:878] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【   】
+2020-07-07 13:36:12:966] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 13:36:44:937] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 13:36:45:135] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【333】
+2020-07-07 13:36:45:269] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【     】
+2020-07-07 13:36:45:379] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 13:36:45:528] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 13:36:45:717] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【admin】
+2020-07-07 13:36:45:874] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【1245633】
+2020-07-07 13:36:45:986] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 13:36:46:677] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 13:36:46:851] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【admin】
+2020-07-07 13:36:47:035] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【123456】
+2020-07-07 13:36:47:136] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 19:45:48:692] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 19:45:52:074] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【   】
+2020-07-07 19:45:52:499] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【   】
+2020-07-07 19:45:52:683] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 19:46:13:278] [INFO] [main] [xinxin.util.UILibraryUtil.getVisibleElement(UILibraryUtil.java:117)] - 根据by:【xpath】,value【//*[@class='el-input el-input--prefix']/following-sibling::div】定位元素超时
+2020-07-07 19:46:13:279] [INFO] [main] [xinxin.util.UILibraryUtil.getElementByKeyword(UILibraryUtil.java:80)] - 获取元素失败
+2020-07-07 19:46:13:741] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 19:46:13:930] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【12】
+2020-07-07 19:46:14:132] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【   】
+2020-07-07 19:46:14:294] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 19:46:14:532] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 19:46:14:763] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【123】
+2020-07-07 19:46:14:962] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【   】
+2020-07-07 19:46:15:121] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 19:46:46:124] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 19:46:46:185] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【333】
+2020-07-07 19:46:46:517] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【     】
+2020-07-07 19:46:46:660] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 19:46:46:833] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 19:46:46:977] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【admin】
+2020-07-07 19:46:47:210] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【1245633】
+2020-07-07 19:46:47:379] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 19:46:48:127] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 19:46:48:278] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【admin】
+2020-07-07 19:46:48:441] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【123456】
+2020-07-07 19:46:48:585] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 22:11:00:824] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 22:11:04:199] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【   】
+2020-07-07 22:11:04:562] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【   】
+2020-07-07 22:11:04:707] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 22:11:24:922] [INFO] [main] [xinxin.util.UILibraryUtil.getVisibleElement(UILibraryUtil.java:117)] - 根据by:【xpath】,value【//*[@class='el-input el-input--prefix']/following-sibling::div】定位元素超时
+2020-07-07 22:11:24:923] [INFO] [main] [xinxin.util.UILibraryUtil.getElementByKeyword(UILibraryUtil.java:80)] - 获取元素失败
+2020-07-07 22:11:25:392] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 22:11:25:602] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【12】
+2020-07-07 22:11:25:754] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【   】
+2020-07-07 22:11:25:893] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 22:11:26:071] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 22:11:26:227] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【123】
+2020-07-07 22:11:26:382] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【   】
+2020-07-07 22:11:26:500] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 22:11:57:489] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 22:11:57:714] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【333】
+2020-07-07 22:11:57:888] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【     】
+2020-07-07 22:11:58:030] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 22:11:58:215] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 22:11:58:386] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【admin】
+2020-07-07 22:11:58:577] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【1245633】
+2020-07-07 22:11:58:739] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 22:11:59:475] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 22:11:59:625] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【admin】
+2020-07-07 22:11:59:799] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【123456】
+2020-07-07 22:11:59:954] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 22:12:00:671] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【配置】
+2020-07-07 22:12:00:817] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【数据库配置】
+2020-07-07 22:12:30:375] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 22:12:42:596] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【   】
+2020-07-07 22:12:42:972] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【   】
+2020-07-07 22:12:43:173] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 22:13:03:321] [INFO] [main] [xinxin.util.UILibraryUtil.getVisibleElement(UILibraryUtil.java:117)] - 根据by:【xpath】,value【//*[@class='el-input el-input--prefix']/following-sibling::div】定位元素超时
+2020-07-07 22:13:03:322] [INFO] [main] [xinxin.util.UILibraryUtil.getElementByKeyword(UILibraryUtil.java:80)] - 获取元素失败
+2020-07-07 22:13:03:778] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 22:13:03:967] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【12】
+2020-07-07 22:13:04:106] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【   】
+2020-07-07 22:13:04:237] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 22:13:04:417] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 22:13:04:566] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【123】
+2020-07-07 22:13:04:694] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【   】
+2020-07-07 22:13:04:822] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 22:13:35:847] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 22:13:36:047] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【333】
+2020-07-07 22:13:36:221] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【     】
+2020-07-07 22:13:36:376] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 22:13:36:552] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 22:13:36:586] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【admin】
+2020-07-07 22:13:36:857] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【1245633】
+2020-07-07 22:13:37:016] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 22:13:37:749] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 22:13:37:914] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【admin】
+2020-07-07 22:13:38:087] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【123456】
+2020-07-07 22:13:38:236] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 22:13:39:087] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【配置】
+2020-07-07 22:15:05:023] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 22:15:08:025] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【   】
+2020-07-07 22:15:08:375] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【   】
+2020-07-07 22:15:08:511] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 22:15:29:174] [INFO] [main] [xinxin.util.UILibraryUtil.getVisibleElement(UILibraryUtil.java:117)] - 根据by:【xpath】,value【//*[@class='el-input el-input--prefix']/following-sibling::div】定位元素超时
+2020-07-07 22:15:29:175] [INFO] [main] [xinxin.util.UILibraryUtil.getElementByKeyword(UILibraryUtil.java:80)] - 获取元素失败
+2020-07-07 22:15:29:644] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 22:15:29:823] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【12】
+2020-07-07 22:15:29:986] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【   】
+2020-07-07 22:15:30:151] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 22:15:30:334] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 22:15:30:488] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【123】
+2020-07-07 22:15:30:616] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【   】
+2020-07-07 22:15:30:757] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 22:16:01:750] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 22:16:01:938] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【333】
+2020-07-07 22:16:02:099] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【     】
+2020-07-07 22:16:02:250] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 22:16:02:435] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 22:16:02:586] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【admin】
+2020-07-07 22:16:02:738] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【1245633】
+2020-07-07 22:16:02:903] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 22:16:03:658] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 22:16:03:822] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【admin】
+2020-07-07 22:16:03:996] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【123456】
+2020-07-07 22:16:04:169] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 22:16:05:035] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【配置】
+2020-07-07 22:17:19:110] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 22:17:22:523] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【   】
+2020-07-07 22:17:22:875] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【   】
+2020-07-07 22:17:23:018] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 22:17:43:155] [INFO] [main] [xinxin.util.UILibraryUtil.getVisibleElement(UILibraryUtil.java:117)] - 根据by:【xpath】,value【//*[@class='el-input el-input--prefix']/following-sibling::div】定位元素超时
+2020-07-07 22:17:43:156] [INFO] [main] [xinxin.util.UILibraryUtil.getElementByKeyword(UILibraryUtil.java:80)] - 获取元素失败
+2020-07-07 22:17:43:615] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 22:17:43:792] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【12】
+2020-07-07 22:17:43:946] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【   】
+2020-07-07 22:17:44:107] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 22:17:44:320] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 22:17:44:471] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【123】
+2020-07-07 22:17:44:605] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【   】
+2020-07-07 22:17:44:728] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 22:18:15:612] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 22:18:15:801] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【333】
+2020-07-07 22:18:15:966] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【     】
+2020-07-07 22:18:16:127] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 22:18:16:306] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 22:18:16:457] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【admin】
+2020-07-07 22:18:16:608] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【1245633】
+2020-07-07 22:18:16:783] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 22:18:17:485] [INFO] [main] [xinxin.base.Base.to(Base.java:48)] - 访问页面http://xinxinapi.icu:9001/#/login
+2020-07-07 22:18:17:636] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【用户名】往里面写入【admin】
+2020-07-07 22:18:17:803] [INFO] [main] [xinxin.base.Base.send(Base.java:56)] - 定位到:【首页】的页面【密码】往里面写入【123456】
+2020-07-07 22:18:17:962] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【登录】
+2020-07-07 22:18:18:829] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【配置】
+2020-07-07 22:18:18:947] [INFO] [main] [xinxin.base.Base.click(Base.java:64)] - 点击:【首页】的【数据库配置】

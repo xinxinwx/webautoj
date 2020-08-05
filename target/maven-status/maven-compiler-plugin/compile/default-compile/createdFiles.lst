@@ -1,0 +1,15 @@
+xinxin\TestResultListener.class
+xinxin\Base.class
+xinxin\UIElement.class
+xinxin\Assertion.class
+xinxin\UILibraryUtil.class
+xinxin\ScreenshotUtil.class
+xinxin\AllureReporterListener.class
+xinxin\BaseUtils.class
+xinxin\ExcelUtils.class
+xinxin\PropertiesUtil.class
+xinxin\Mytest.class
+xinxin\CaseUtils.class
+xinxin\Page.class
+xinxin\TestData.class
+xinxin\UserData.class

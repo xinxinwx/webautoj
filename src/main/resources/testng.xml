@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="鑫鑫">
+    <test name="xinxin">
+        <classes>
+            <class name="xinxin.Mytest"></class>
+        </classes>
+    </test>
+
+
+    <test name="sql">
+        <classes>
+            <class name="xinxin.SqlTest"></class>
+        </classes>
+    </test>
+
+    <parameter name="browserType" value="chrome"/>
+
+    <listeners>
+        <listener class-name="xinxin.listener.TestResultListener"></listener>
+        <listener class-name="org.uncommons.reportng.HTMLReporter"></listener>
+    </listeners>
+</suite>
